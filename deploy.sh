@@ -12,4 +12,3 @@ sudo git commit -m "$varname"
 sudo git push --all
 
 
-
