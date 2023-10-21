@@ -1,0 +1,1 @@
+ffplay -vf subtitles=bible-subtitles.ass:force_style='Alignment=2' -i C:/Users/giova/Videos/musicassets/The_Apostle_Peter__Redemption__-_Christian_Movie_HD_[G2zaye3rBcw].mp4
